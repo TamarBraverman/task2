@@ -1,0 +1,1311 @@
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\roslyn\csc.exe
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\roslyn\System.Collections.Immutable.dll
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\roslyn\System.Reflection.Metadata.dll
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\roslyn\vbc.exe
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\roslyn\VBCSCompiler.exe
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\roslyn\VBCSCompiler.exe.config
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\API.dll.config
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\API.dll
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\API.pdb
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\Antlr3.Runtime.dll
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\BL.dll
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\Entities.dll
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\EntityFramework.dll
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\EntityFramework.SqlServer.dll
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\Microsoft.AI.Agent.Intercept.dll
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\Microsoft.AI.DependencyCollector.dll
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\Microsoft.AI.PerfCounterCollector.dll
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\Microsoft.AI.Web.dll
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\Microsoft.AI.WindowsServer.dll
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\Microsoft.ApplicationInsights.dll
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\Microsoft.AspNet.Identity.Core.dll
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\Microsoft.AspNet.Identity.Owin.dll
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\Microsoft.Owin.dll
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\Microsoft.Owin.Host.SystemWeb.dll
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\Microsoft.Owin.Security.Cookies.dll
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\Microsoft.Owin.Security.dll
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\Microsoft.Owin.Security.Facebook.dll
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\Microsoft.Owin.Security.Google.dll
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\Microsoft.Owin.Security.OAuth.dll
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\Microsoft.Owin.Security.Twitter.dll
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\Microsoft.Web.Infrastructure.dll
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\Microsoft.Web.XmlTransform.dll
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\Newtonsoft.Json.dll
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\Owin.dll
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\System.Net.Http.Formatting.dll
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\System.Web.Cors.dll
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\System.Web.Helpers.dll
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\System.Web.Http.Cors.dll
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\System.Web.Http.dll
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\System.Web.Http.Owin.dll
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\System.Web.Http.WebHost.dll
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\System.Web.Mvc.dll
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\System.Web.Optimization.dll
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\System.Web.Razor.dll
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\System.Web.WebPages.Deployment.dll
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\System.Web.WebPages.dll
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\System.Web.WebPages.Razor.dll
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\WebGrease.dll
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\Dal.dll
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\BL.pdb
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\Entities.pdb
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\Entities.dll.config
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\Microsoft.AI.DependencyCollector.xml
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\Microsoft.AI.ServerTelemetryChannel.xml
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\Microsoft.AI.Web.xml
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\Microsoft.AI.WindowsServer.xml
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\Microsoft.ApplicationInsights.xml
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\System.Net.Http.Formatting.xml
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\System.Web.Http.xml
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\System.Web.Http.Cors.xml
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\Newtonsoft.Json.xml
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\System.Web.Helpers.xml
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\System.Web.Http.WebHost.xml
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\System.Web.Mvc.xml
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\System.Web.Optimization.xml
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\System.Web.Razor.xml
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\System.Web.WebPages.xml
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\System.Web.WebPages.Deployment.xml
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\System.Web.WebPages.Razor.xml
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\Antlr3.Runtime.pdb
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\EntityFramework.xml
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\EntityFramework.SqlServer.xml
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\Microsoft.AspNet.Identity.Core.xml
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\Microsoft.AspNet.Identity.Owin.xml
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\Microsoft.Owin.xml
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\Microsoft.Owin.Host.SystemWeb.xml
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\Microsoft.Owin.Security.xml
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\Microsoft.Owin.Security.Facebook.xml
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\Microsoft.Owin.Security.Cookies.xml
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\Microsoft.Owin.Security.OAuth.xml
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\Microsoft.Owin.Security.Google.xml
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\Microsoft.Owin.Security.Twitter.xml
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\System.Web.Http.Owin.xml
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\bin\Dal.pdb
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\obj\Debug\API.csprojResolveAssemblyReference.cache
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\obj\Debug\API.dll
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\obj\Debug\API.pdb
+Y:\group 2 תשעח\ולדר חני\פרויקט גמר\AutoMedic\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\roslyn\csc.exe
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\roslyn\System.Collections.Immutable.dll
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\roslyn\System.Reflection.Metadata.dll
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\roslyn\vbc.exe
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\roslyn\VBCSCompiler.exe
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\roslyn\VBCSCompiler.exe.config
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\API.dll.config
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\API.dll
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\API.pdb
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Antlr3.Runtime.dll
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\BL.dll
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Dal.dll
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Entities.dll
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\EntityFramework.dll
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\EntityFramework.SqlServer.dll
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AI.Agent.Intercept.dll
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AI.DependencyCollector.dll
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AI.Web.dll
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AI.WindowsServer.dll
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.ApplicationInsights.dll
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AspNet.Identity.Core.dll
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.dll
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.Cookies.dll
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.dll
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.Facebook.dll
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.Google.dll
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.OAuth.dll
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.Twitter.dll
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Web.Infrastructure.dll
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Web.XmlTransform.dll
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Newtonsoft.Json.dll
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Owin.dll
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Net.Http.Formatting.dll
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Cors.dll
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Helpers.dll
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Http.Cors.dll
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Http.dll
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Http.Owin.dll
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Http.WebHost.dll
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Mvc.dll
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Optimization.dll
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Razor.dll
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.WebPages.Deployment.dll
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.WebPages.dll
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.WebPages.Razor.dll
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\WebGrease.dll
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\BL.pdb
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Dal.pdb
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Entities.pdb
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Entities.dll.config
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AI.DependencyCollector.xml
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AI.Web.xml
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AI.WindowsServer.xml
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.ApplicationInsights.xml
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Net.Http.Formatting.xml
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Http.xml
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Http.Cors.xml
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Newtonsoft.Json.xml
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Helpers.xml
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Http.WebHost.xml
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Mvc.xml
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Optimization.xml
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Razor.xml
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.WebPages.xml
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.WebPages.Deployment.xml
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.WebPages.Razor.xml
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Antlr3.Runtime.pdb
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\EntityFramework.xml
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\EntityFramework.SqlServer.xml
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AspNet.Identity.Core.xml
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.xml
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.xml
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.Facebook.xml
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.Cookies.xml
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.OAuth.xml
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.Google.xml
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.Twitter.xml
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Http.Owin.xml
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\obj\Debug\API.csprojResolveAssemblyReference.cache
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\obj\Debug\API.dll
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\obj\Debug\API.pdb
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Cors.ConfigProfiles.dll
+D:\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\roslyn\csc.exe
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\roslyn\System.Collections.Immutable.dll
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\roslyn\System.Reflection.Metadata.dll
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\roslyn\vbc.exe
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\roslyn\VBCSCompiler.exe
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\roslyn\VBCSCompiler.exe.config
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\API.dll.config
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\API.dll
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\API.pdb
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Antlr3.Runtime.dll
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\BL.dll
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Cors.ConfigProfiles.dll
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Dal.dll
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Entities.dll
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\EntityFramework.dll
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\EntityFramework.SqlServer.dll
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AI.Agent.Intercept.dll
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AI.DependencyCollector.dll
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AI.Web.dll
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AI.WindowsServer.dll
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.ApplicationInsights.dll
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AspNet.Identity.Core.dll
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.dll
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.Cookies.dll
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.dll
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.Facebook.dll
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.Google.dll
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.OAuth.dll
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.Twitter.dll
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Web.Infrastructure.dll
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Web.XmlTransform.dll
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Newtonsoft.Json.dll
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Owin.dll
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Net.Http.Formatting.dll
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Cors.dll
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Helpers.dll
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Http.Cors.dll
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Http.dll
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Http.Owin.dll
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Http.WebHost.dll
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Mvc.dll
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Optimization.dll
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Razor.dll
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.WebPages.Deployment.dll
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.WebPages.dll
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.WebPages.Razor.dll
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\WebGrease.dll
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\BL.pdb
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Dal.pdb
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Entities.pdb
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Entities.dll.config
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AI.DependencyCollector.xml
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AI.Web.xml
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AI.WindowsServer.xml
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.ApplicationInsights.xml
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Net.Http.Formatting.xml
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Http.xml
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Http.Cors.xml
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Newtonsoft.Json.xml
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Helpers.xml
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Http.WebHost.xml
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Mvc.xml
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Optimization.xml
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Razor.xml
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.WebPages.xml
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.WebPages.Deployment.xml
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.WebPages.Razor.xml
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Antlr3.Runtime.pdb
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\EntityFramework.xml
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\EntityFramework.SqlServer.xml
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AspNet.Identity.Core.xml
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.xml
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.xml
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.Facebook.xml
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.Cookies.xml
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.OAuth.xml
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.Google.xml
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.Twitter.xml
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Http.Owin.xml
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\obj\Debug\API.csprojResolveAssemblyReference.cache
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\obj\Debug\API.dll
+D:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\obj\Debug\API.pdb
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\roslyn\csc.exe
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\roslyn\vbc.exe
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\roslyn\VBCSCompiler.exe
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\API.dll.config
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\API.dll
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\API.pdb
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Antlr3.Runtime.dll
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\BL.dll
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Cors.ConfigProfiles.dll
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Dal.dll
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Entities.dll
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\EntityFramework.dll
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\EntityFramework.SqlServer.dll
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AI.Web.dll
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.ApplicationInsights.dll
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.dll
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.dll
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Web.XmlTransform.dll
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Newtonsoft.Json.dll
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Owin.dll
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Net.Http.Formatting.dll
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Cors.dll
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Helpers.dll
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Http.Cors.dll
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Http.dll
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Http.Owin.dll
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Http.WebHost.dll
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Mvc.dll
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Optimization.dll
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Razor.dll
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.WebPages.dll
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.WebPages.Razor.dll
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\WebGrease.dll
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\BL.pdb
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Dal.pdb
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Entities.pdb
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AI.Web.xml
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.ApplicationInsights.xml
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Net.Http.Formatting.xml
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Http.xml
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Http.Cors.xml
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Newtonsoft.Json.xml
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Helpers.xml
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Http.WebHost.xml
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Mvc.xml
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Optimization.xml
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Razor.xml
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.WebPages.xml
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.WebPages.Razor.xml
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Antlr3.Runtime.pdb
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\EntityFramework.xml
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\EntityFramework.SqlServer.xml
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.xml
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.xml
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Http.Owin.xml
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\obj\Debug\API.csprojResolveAssemblyReference.cache
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\obj\Debug\API.dll
+C:\Users\user1\Desktop\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\obj\Debug\API.pdb
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\roslyn\csc.exe
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\roslyn\System.Collections.Immutable.dll
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\roslyn\System.Reflection.Metadata.dll
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\roslyn\vbc.exe
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\roslyn\VBCSCompiler.exe
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\roslyn\VBCSCompiler.exe.config
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\API.dll.config
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\API.dll
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\API.pdb
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Antlr3.Runtime.dll
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\BL.dll
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Cors.ConfigProfiles.dll
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Dal.dll
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Entities.dll
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\EntityFramework.dll
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\EntityFramework.SqlServer.dll
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AI.Agent.Intercept.dll
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AI.DependencyCollector.dll
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AI.Web.dll
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AI.WindowsServer.dll
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.ApplicationInsights.dll
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AspNet.Identity.Core.dll
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.dll
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.Cookies.dll
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.dll
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.Facebook.dll
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.Google.dll
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.OAuth.dll
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.Twitter.dll
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Web.Infrastructure.dll
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Web.XmlTransform.dll
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Newtonsoft.Json.dll
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Owin.dll
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Net.Http.Formatting.dll
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Cors.dll
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Helpers.dll
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Http.Cors.dll
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Http.dll
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Http.Owin.dll
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Http.WebHost.dll
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Mvc.dll
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Optimization.dll
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Razor.dll
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.WebPages.Deployment.dll
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.WebPages.dll
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.WebPages.Razor.dll
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\WebGrease.dll
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\BL.pdb
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Dal.pdb
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Entities.pdb
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Entities.dll.config
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AI.DependencyCollector.xml
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AI.Web.xml
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AI.WindowsServer.xml
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.ApplicationInsights.xml
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Net.Http.Formatting.xml
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Http.xml
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Http.Cors.xml
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Newtonsoft.Json.xml
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Helpers.xml
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Http.WebHost.xml
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Mvc.xml
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Optimization.xml
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Razor.xml
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.WebPages.xml
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.WebPages.Deployment.xml
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.WebPages.Razor.xml
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Antlr3.Runtime.pdb
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\EntityFramework.xml
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\EntityFramework.SqlServer.xml
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AspNet.Identity.Core.xml
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.xml
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.xml
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.Facebook.xml
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.Cookies.xml
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.OAuth.xml
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.Google.xml
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.Twitter.xml
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Http.Owin.xml
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\obj\Debug\API.csprojResolveAssemblyReference.cache
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\obj\Debug\API.dll
+F:\שהחיינו\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\obj\Debug\API.pdb
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\roslyn\csc.exe
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\roslyn\vbc.exe
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\roslyn\VBCSCompiler.exe
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\API.dll.config
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\API.dll
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\API.pdb
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Antlr3.Runtime.dll
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\BL.dll
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Cors.ConfigProfiles.dll
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Dal.dll
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Entities.dll
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\EntityFramework.dll
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\EntityFramework.SqlServer.dll
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AI.Web.dll
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.ApplicationInsights.dll
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.dll
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.dll
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Web.XmlTransform.dll
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Newtonsoft.Json.dll
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Owin.dll
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Net.Http.Formatting.dll
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Cors.dll
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Helpers.dll
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Http.Cors.dll
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Http.dll
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Http.Owin.dll
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Http.WebHost.dll
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Mvc.dll
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Optimization.dll
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Razor.dll
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.WebPages.dll
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.WebPages.Razor.dll
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\WebGrease.dll
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\BL.pdb
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Dal.pdb
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Entities.pdb
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AI.Web.xml
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.ApplicationInsights.xml
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Net.Http.Formatting.xml
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Http.xml
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Http.Cors.xml
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Newtonsoft.Json.xml
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Helpers.xml
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Http.WebHost.xml
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Mvc.xml
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Optimization.xml
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Razor.xml
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.WebPages.xml
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.WebPages.Razor.xml
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Antlr3.Runtime.pdb
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\EntityFramework.xml
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\EntityFramework.SqlServer.xml
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.xml
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.xml
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\bin\System.Web.Http.Owin.xml
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\obj\Debug\API.csprojResolveAssemblyReference.cache
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\obj\Debug\API.dll
+C:\Users\user1\Desktop\שהחיינו2\17.07.2018\פרויקט מירי אייזן וחני ולדר\server\AutoMedic\API\obj\Debug\API.pdb
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\roslyn\csc.exe
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\roslyn\vbc.exe
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\roslyn\VBCSCompiler.exe
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\API.dll.config
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\API.dll
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\API.pdb
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\Antlr3.Runtime.dll
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\BL.dll
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\Cors.ConfigProfiles.dll
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\Dal.dll
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\Entities.dll
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\EntityFramework.dll
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\EntityFramework.SqlServer.dll
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.AI.Web.dll
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.ApplicationInsights.dll
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.dll
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.dll
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.Web.XmlTransform.dll
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\Newtonsoft.Json.dll
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\Owin.dll
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\System.Net.Http.Formatting.dll
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\System.Web.Cors.dll
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\System.Web.Helpers.dll
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\System.Web.Http.Cors.dll
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\System.Web.Http.dll
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\System.Web.Http.Owin.dll
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\System.Web.Http.WebHost.dll
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\System.Web.Mvc.dll
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\System.Web.Optimization.dll
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\System.Web.Razor.dll
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\System.Web.WebPages.dll
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\System.Web.WebPages.Razor.dll
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\WebGrease.dll
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\BL.pdb
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\Dal.pdb
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\Entities.pdb
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\Entities.dll.config
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.AI.Web.xml
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.ApplicationInsights.xml
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\System.Net.Http.Formatting.xml
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\System.Web.Http.xml
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\System.Web.Http.Cors.xml
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\Newtonsoft.Json.xml
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\System.Web.Helpers.xml
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\System.Web.Http.WebHost.xml
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\System.Web.Mvc.xml
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\System.Web.Optimization.xml
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\System.Web.Razor.xml
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\System.Web.WebPages.xml
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\System.Web.WebPages.Razor.xml
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\Antlr3.Runtime.pdb
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\EntityFramework.xml
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\EntityFramework.SqlServer.xml
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.xml
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.xml
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\System.Web.Http.Owin.xml
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\obj\Debug\API.csprojAssemblyReference.cache
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\obj\Debug\API.csproj.CopyComplete
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\obj\Debug\API.dll
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\obj\Debug\API.pdb
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\initDayAlerts.dll
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\initDayAlerts.pdb
+C:\Users\miriamai\Desktop\פרויקט מירי וחני\server\API\bin\initDayAlerts.dll.config
+F:\פרויקט מירי וחני\server\API\obj\Debug\API.dll
+F:\פרויקט מירי וחני\server\API\obj\Debug\API.pdb
+D:\פרויקט מירי וחני\server\API\bin\roslyn\csc.exe
+D:\פרויקט מירי וחני\server\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\פרויקט מירי וחני\server\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\פרויקט מירי וחני\server\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\פרויקט מירי וחני\server\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\פרויקט מירי וחני\server\API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\פרויקט מירי וחני\server\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\פרויקט מירי וחני\server\API\bin\roslyn\System.Collections.Immutable.dll
+D:\פרויקט מירי וחני\server\API\bin\roslyn\System.Reflection.Metadata.dll
+D:\פרויקט מירי וחני\server\API\bin\roslyn\vbc.exe
+D:\פרויקט מירי וחני\server\API\bin\roslyn\VBCSCompiler.exe
+D:\פרויקט מירי וחני\server\API\bin\roslyn\VBCSCompiler.exe.config
+D:\פרויקט מירי וחני\server\API\bin\API.dll.config
+D:\פרויקט מירי וחני\server\API\bin\API.dll
+D:\פרויקט מירי וחני\server\API\bin\API.pdb
+D:\פרויקט מירי וחני\server\API\bin\Antlr3.Runtime.dll
+D:\פרויקט מירי וחני\server\API\bin\BL.dll
+D:\פרויקט מירי וחני\server\API\bin\Cors.ConfigProfiles.dll
+D:\פרויקט מירי וחני\server\API\bin\Dal.dll
+D:\פרויקט מירי וחני\server\API\bin\Entities.dll
+D:\פרויקט מירי וחני\server\API\bin\EntityFramework.dll
+D:\פרויקט מירי וחני\server\API\bin\EntityFramework.SqlServer.dll
+D:\פרויקט מירי וחני\server\API\bin\initDayAlerts.dll
+D:\פרויקט מירי וחני\server\API\bin\Microsoft.AI.Agent.Intercept.dll
+D:\פרויקט מירי וחני\server\API\bin\Microsoft.AI.DependencyCollector.dll
+D:\פרויקט מירי וחני\server\API\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\פרויקט מירי וחני\server\API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\פרויקט מירי וחני\server\API\bin\Microsoft.AI.Web.dll
+D:\פרויקט מירי וחני\server\API\bin\Microsoft.AI.WindowsServer.dll
+D:\פרויקט מירי וחני\server\API\bin\Microsoft.ApplicationInsights.dll
+D:\פרויקט מירי וחני\server\API\bin\Microsoft.AspNet.Identity.Core.dll
+D:\פרויקט מירי וחני\server\API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\פרויקט מירי וחני\server\API\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\פרויקט מירי וחני\server\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.dll
+D:\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.Cookies.dll
+D:\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.dll
+D:\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.Facebook.dll
+D:\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.Google.dll
+D:\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.OAuth.dll
+D:\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.Twitter.dll
+D:\פרויקט מירי וחני\server\API\bin\Microsoft.Web.Infrastructure.dll
+D:\פרויקט מירי וחני\server\API\bin\Microsoft.Web.XmlTransform.dll
+D:\פרויקט מירי וחני\server\API\bin\Newtonsoft.Json.dll
+D:\פרויקט מירי וחני\server\API\bin\Owin.dll
+D:\פרויקט מירי וחני\server\API\bin\System.Net.Http.Formatting.dll
+D:\פרויקט מירי וחני\server\API\bin\System.Web.Cors.dll
+D:\פרויקט מירי וחני\server\API\bin\System.Web.Helpers.dll
+D:\פרויקט מירי וחני\server\API\bin\System.Web.Http.Cors.dll
+D:\פרויקט מירי וחני\server\API\bin\System.Web.Http.dll
+D:\פרויקט מירי וחני\server\API\bin\System.Web.Http.Owin.dll
+D:\פרויקט מירי וחני\server\API\bin\System.Web.Http.WebHost.dll
+D:\פרויקט מירי וחני\server\API\bin\System.Web.Mvc.dll
+D:\פרויקט מירי וחני\server\API\bin\System.Web.Optimization.dll
+D:\פרויקט מירי וחני\server\API\bin\System.Web.Razor.dll
+D:\פרויקט מירי וחני\server\API\bin\System.Web.WebPages.Deployment.dll
+D:\פרויקט מירי וחני\server\API\bin\System.Web.WebPages.dll
+D:\פרויקט מירי וחני\server\API\bin\System.Web.WebPages.Razor.dll
+D:\פרויקט מירי וחני\server\API\bin\WebGrease.dll
+D:\פרויקט מירי וחני\server\API\bin\BL.pdb
+D:\פרויקט מירי וחני\server\API\bin\Dal.pdb
+D:\פרויקט מירי וחני\server\API\bin\Entities.pdb
+D:\פרויקט מירי וחני\server\API\bin\Entities.dll.config
+D:\פרויקט מירי וחני\server\API\bin\initDayAlerts.pdb
+D:\פרויקט מירי וחני\server\API\bin\initDayAlerts.dll.config
+D:\פרויקט מירי וחני\server\API\bin\Microsoft.AI.DependencyCollector.xml
+D:\פרויקט מירי וחני\server\API\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\פרויקט מירי וחני\server\API\bin\Microsoft.AI.Web.xml
+D:\פרויקט מירי וחני\server\API\bin\Microsoft.AI.WindowsServer.xml
+D:\פרויקט מירי וחני\server\API\bin\Microsoft.ApplicationInsights.xml
+D:\פרויקט מירי וחני\server\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\פרויקט מירי וחני\server\API\bin\System.Net.Http.Formatting.xml
+D:\פרויקט מירי וחני\server\API\bin\System.Web.Http.xml
+D:\פרויקט מירי וחני\server\API\bin\System.Web.Http.Cors.xml
+D:\פרויקט מירי וחני\server\API\bin\Newtonsoft.Json.xml
+D:\פרויקט מירי וחני\server\API\bin\System.Web.Helpers.xml
+D:\פרויקט מירי וחני\server\API\bin\System.Web.Http.WebHost.xml
+D:\פרויקט מירי וחני\server\API\bin\System.Web.Mvc.xml
+D:\פרויקט מירי וחני\server\API\bin\System.Web.Optimization.xml
+D:\פרויקט מירי וחני\server\API\bin\System.Web.Razor.xml
+D:\פרויקט מירי וחני\server\API\bin\System.Web.WebPages.xml
+D:\פרויקט מירי וחני\server\API\bin\System.Web.WebPages.Deployment.xml
+D:\פרויקט מירי וחני\server\API\bin\System.Web.WebPages.Razor.xml
+D:\פרויקט מירי וחני\server\API\bin\Antlr3.Runtime.pdb
+D:\פרויקט מירי וחני\server\API\bin\EntityFramework.xml
+D:\פרויקט מירי וחני\server\API\bin\EntityFramework.SqlServer.xml
+D:\פרויקט מירי וחני\server\API\bin\Microsoft.AspNet.Identity.Core.xml
+D:\פרויקט מירי וחני\server\API\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\פרויקט מירי וחני\server\API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.xml
+D:\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.xml
+D:\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.Facebook.xml
+D:\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.Cookies.xml
+D:\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.OAuth.xml
+D:\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.Google.xml
+D:\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.Twitter.xml
+D:\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\פרויקט מירי וחני\server\API\bin\System.Web.Http.Owin.xml
+D:\פרויקט מירי וחני\server\API\obj\Debug\API.csprojAssemblyReference.cache
+D:\פרויקט מירי וחני\server\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+D:\פרויקט מירי וחני\server\API\obj\Debug\API.csproj.CopyComplete
+D:\פרויקט מירי וחני\server\API\obj\Debug\API.dll
+D:\פרויקט מירי וחני\server\API\obj\Debug\API.pdb
+F:\פרויקט מירי וחני\server\API\bin\roslyn\csc.exe
+F:\פרויקט מירי וחני\server\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\פרויקט מירי וחני\server\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\פרויקט מירי וחני\server\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\פרויקט מירי וחני\server\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\פרויקט מירי וחני\server\API\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\פרויקט מירי וחני\server\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\פרויקט מירי וחני\server\API\bin\roslyn\System.Collections.Immutable.dll
+F:\פרויקט מירי וחני\server\API\bin\roslyn\System.Reflection.Metadata.dll
+F:\פרויקט מירי וחני\server\API\bin\roslyn\vbc.exe
+F:\פרויקט מירי וחני\server\API\bin\roslyn\VBCSCompiler.exe
+F:\פרויקט מירי וחני\server\API\bin\roslyn\VBCSCompiler.exe.config
+F:\פרויקט מירי וחני\server\API\bin\API.dll.config
+F:\פרויקט מירי וחני\server\API\bin\API.dll
+F:\פרויקט מירי וחני\server\API\bin\API.pdb
+F:\פרויקט מירי וחני\server\API\bin\Antlr3.Runtime.dll
+F:\פרויקט מירי וחני\server\API\bin\BL.dll
+F:\פרויקט מירי וחני\server\API\bin\Cors.ConfigProfiles.dll
+F:\פרויקט מירי וחני\server\API\bin\Dal.dll
+F:\פרויקט מירי וחני\server\API\bin\Entities.dll
+F:\פרויקט מירי וחני\server\API\bin\EntityFramework.dll
+F:\פרויקט מירי וחני\server\API\bin\EntityFramework.SqlServer.dll
+F:\פרויקט מירי וחני\server\API\bin\initDayAlerts.dll
+F:\פרויקט מירי וחני\server\API\bin\Microsoft.AI.Agent.Intercept.dll
+F:\פרויקט מירי וחני\server\API\bin\Microsoft.AI.DependencyCollector.dll
+F:\פרויקט מירי וחני\server\API\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\פרויקט מירי וחני\server\API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\פרויקט מירי וחני\server\API\bin\Microsoft.AI.Web.dll
+F:\פרויקט מירי וחני\server\API\bin\Microsoft.AI.WindowsServer.dll
+F:\פרויקט מירי וחני\server\API\bin\Microsoft.ApplicationInsights.dll
+F:\פרויקט מירי וחני\server\API\bin\Microsoft.AspNet.Identity.Core.dll
+F:\פרויקט מירי וחני\server\API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\פרויקט מירי וחני\server\API\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\פרויקט מירי וחני\server\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.dll
+F:\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.Cookies.dll
+F:\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.dll
+F:\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.Facebook.dll
+F:\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.Google.dll
+F:\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.OAuth.dll
+F:\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.Twitter.dll
+F:\פרויקט מירי וחני\server\API\bin\Microsoft.Web.Infrastructure.dll
+F:\פרויקט מירי וחני\server\API\bin\Microsoft.Web.XmlTransform.dll
+F:\פרויקט מירי וחני\server\API\bin\Newtonsoft.Json.dll
+F:\פרויקט מירי וחני\server\API\bin\Owin.dll
+F:\פרויקט מירי וחני\server\API\bin\System.Net.Http.Formatting.dll
+F:\פרויקט מירי וחני\server\API\bin\System.Web.Cors.dll
+F:\פרויקט מירי וחני\server\API\bin\System.Web.Helpers.dll
+F:\פרויקט מירי וחני\server\API\bin\System.Web.Http.Cors.dll
+F:\פרויקט מירי וחני\server\API\bin\System.Web.Http.dll
+F:\פרויקט מירי וחני\server\API\bin\System.Web.Http.Owin.dll
+F:\פרויקט מירי וחני\server\API\bin\System.Web.Http.WebHost.dll
+F:\פרויקט מירי וחני\server\API\bin\System.Web.Mvc.dll
+F:\פרויקט מירי וחני\server\API\bin\System.Web.Optimization.dll
+F:\פרויקט מירי וחני\server\API\bin\System.Web.Razor.dll
+F:\פרויקט מירי וחני\server\API\bin\System.Web.WebPages.Deployment.dll
+F:\פרויקט מירי וחני\server\API\bin\System.Web.WebPages.dll
+F:\פרויקט מירי וחני\server\API\bin\System.Web.WebPages.Razor.dll
+F:\פרויקט מירי וחני\server\API\bin\WebGrease.dll
+F:\פרויקט מירי וחני\server\API\bin\BL.pdb
+F:\פרויקט מירי וחני\server\API\bin\Dal.pdb
+F:\פרויקט מירי וחני\server\API\bin\Entities.pdb
+F:\פרויקט מירי וחני\server\API\bin\initDayAlerts.pdb
+F:\פרויקט מירי וחני\server\API\bin\Microsoft.AI.DependencyCollector.xml
+F:\פרויקט מירי וחני\server\API\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\פרויקט מירי וחני\server\API\bin\Microsoft.AI.Web.xml
+F:\פרויקט מירי וחני\server\API\bin\Microsoft.AI.WindowsServer.xml
+F:\פרויקט מירי וחני\server\API\bin\Microsoft.ApplicationInsights.xml
+F:\פרויקט מירי וחני\server\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\פרויקט מירי וחני\server\API\bin\System.Net.Http.Formatting.xml
+F:\פרויקט מירי וחני\server\API\bin\System.Web.Http.xml
+F:\פרויקט מירי וחני\server\API\bin\System.Web.Http.Cors.xml
+F:\פרויקט מירי וחני\server\API\bin\Newtonsoft.Json.xml
+F:\פרויקט מירי וחני\server\API\bin\System.Web.Helpers.xml
+F:\פרויקט מירי וחני\server\API\bin\System.Web.Http.WebHost.xml
+F:\פרויקט מירי וחני\server\API\bin\System.Web.Mvc.xml
+F:\פרויקט מירי וחני\server\API\bin\System.Web.Optimization.xml
+F:\פרויקט מירי וחני\server\API\bin\System.Web.Razor.xml
+F:\פרויקט מירי וחני\server\API\bin\System.Web.WebPages.xml
+F:\פרויקט מירי וחני\server\API\bin\System.Web.WebPages.Deployment.xml
+F:\פרויקט מירי וחני\server\API\bin\System.Web.WebPages.Razor.xml
+F:\פרויקט מירי וחני\server\API\bin\Antlr3.Runtime.pdb
+F:\פרויקט מירי וחני\server\API\bin\EntityFramework.xml
+F:\פרויקט מירי וחני\server\API\bin\EntityFramework.SqlServer.xml
+F:\פרויקט מירי וחני\server\API\bin\Microsoft.AspNet.Identity.Core.xml
+F:\פרויקט מירי וחני\server\API\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\פרויקט מירי וחני\server\API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.xml
+F:\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.xml
+F:\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.Facebook.xml
+F:\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.Cookies.xml
+F:\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.OAuth.xml
+F:\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.Google.xml
+F:\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.Twitter.xml
+F:\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\פרויקט מירי וחני\server\API\bin\System.Web.Http.Owin.xml
+F:\פרויקט מירי וחני\server\API\obj\Debug\API.csprojResolveAssemblyReference.cache
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\roslyn\csc.exe
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\roslyn\vbc.exe
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\roslyn\VBCSCompiler.exe
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\API.dll.config
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\API.dll
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\API.pdb
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\Antlr3.Runtime.dll
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\BL.dll
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\Cors.ConfigProfiles.dll
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\Dal.dll
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\Entities.dll
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\EntityFramework.dll
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\EntityFramework.SqlServer.dll
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\initDayAlerts.dll
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.AI.Web.dll
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.ApplicationInsights.dll
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.dll
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.dll
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.Web.XmlTransform.dll
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\Newtonsoft.Json.dll
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\Owin.dll
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\System.Net.Http.Formatting.dll
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\System.Web.Cors.dll
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\System.Web.Helpers.dll
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\System.Web.Http.Cors.dll
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\System.Web.Http.dll
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\System.Web.Http.Owin.dll
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\System.Web.Http.WebHost.dll
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\System.Web.Mvc.dll
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\System.Web.Optimization.dll
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\System.Web.Razor.dll
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\System.Web.WebPages.dll
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\System.Web.WebPages.Razor.dll
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\WebGrease.dll
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\BL.pdb
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\Dal.pdb
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\Entities.pdb
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\initDayAlerts.pdb
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.AI.Web.xml
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.ApplicationInsights.xml
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\System.Net.Http.Formatting.xml
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\System.Web.Http.xml
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\System.Web.Http.Cors.xml
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\Newtonsoft.Json.xml
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\System.Web.Helpers.xml
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\System.Web.Http.WebHost.xml
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\System.Web.Mvc.xml
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\System.Web.Optimization.xml
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\System.Web.Razor.xml
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\System.Web.WebPages.xml
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\System.Web.WebPages.Razor.xml
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\Antlr3.Runtime.pdb
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\EntityFramework.xml
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\EntityFramework.SqlServer.xml
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.xml
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.xml
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\bin\System.Web.Http.Owin.xml
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\obj\Debug\API.csprojResolveAssemblyReference.cache
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\obj\Debug\API.dll
+C:\Users\user1\Desktop\פרויקט מירי וחני\server\API\obj\Debug\API.pdb
+E:\פרויקט מירי וחני\server\API\obj\Debug\API.csprojAssemblyReference.cache
+E:\פרויקט מירי וחני\server\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+E:\פרויקט מירי וחני\server\API\obj\Debug\API.dll
+E:\פרויקט מירי וחני\server\API\obj\Debug\API.pdb
+E:\פרויקט מירי וחני\server\API\bin\roslyn\csc.exe
+E:\פרויקט מירי וחני\server\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\פרויקט מירי וחני\server\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\פרויקט מירי וחני\server\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\פרויקט מירי וחני\server\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\פרויקט מירי וחני\server\API\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\פרויקט מירי וחני\server\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\פרויקט מירי וחני\server\API\bin\roslyn\System.Collections.Immutable.dll
+E:\פרויקט מירי וחני\server\API\bin\roslyn\System.Reflection.Metadata.dll
+E:\פרויקט מירי וחני\server\API\bin\roslyn\vbc.exe
+E:\פרויקט מירי וחני\server\API\bin\roslyn\VBCSCompiler.exe
+E:\פרויקט מירי וחני\server\API\bin\roslyn\VBCSCompiler.exe.config
+E:\פרויקט מירי וחני\server\API\bin\API.dll.config
+E:\פרויקט מירי וחני\server\API\bin\API.dll
+E:\פרויקט מירי וחני\server\API\bin\API.pdb
+E:\פרויקט מירי וחני\server\API\bin\Antlr3.Runtime.dll
+E:\פרויקט מירי וחני\server\API\bin\Cors.ConfigProfiles.dll
+E:\פרויקט מירי וחני\server\API\bin\EntityFramework.dll
+E:\פרויקט מירי וחני\server\API\bin\EntityFramework.SqlServer.dll
+E:\פרויקט מירי וחני\server\API\bin\Microsoft.AI.Agent.Intercept.dll
+E:\פרויקט מירי וחני\server\API\bin\Microsoft.AI.DependencyCollector.dll
+E:\פרויקט מירי וחני\server\API\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\פרויקט מירי וחני\server\API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\פרויקט מירי וחני\server\API\bin\Microsoft.AI.Web.dll
+E:\פרויקט מירי וחני\server\API\bin\Microsoft.AI.WindowsServer.dll
+E:\פרויקט מירי וחני\server\API\bin\Microsoft.ApplicationInsights.dll
+E:\פרויקט מירי וחני\server\API\bin\Microsoft.AspNet.Identity.Core.dll
+E:\פרויקט מירי וחני\server\API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\פרויקט מירי וחני\server\API\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\פרויקט מירי וחני\server\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.dll
+E:\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.Cookies.dll
+E:\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.dll
+E:\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.Facebook.dll
+E:\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.Google.dll
+E:\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.OAuth.dll
+E:\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.Twitter.dll
+E:\פרויקט מירי וחני\server\API\bin\Microsoft.Web.Infrastructure.dll
+E:\פרויקט מירי וחני\server\API\bin\Microsoft.Web.XmlTransform.dll
+E:\פרויקט מירי וחני\server\API\bin\Newtonsoft.Json.dll
+E:\פרויקט מירי וחני\server\API\bin\Owin.dll
+E:\פרויקט מירי וחני\server\API\bin\System.Net.Http.Formatting.dll
+E:\פרויקט מירי וחני\server\API\bin\System.Web.Cors.dll
+E:\פרויקט מירי וחני\server\API\bin\System.Web.Helpers.dll
+E:\פרויקט מירי וחני\server\API\bin\System.Web.Http.Cors.dll
+E:\פרויקט מירי וחני\server\API\bin\System.Web.Http.dll
+E:\פרויקט מירי וחני\server\API\bin\System.Web.Http.Owin.dll
+E:\פרויקט מירי וחני\server\API\bin\System.Web.Http.WebHost.dll
+E:\פרויקט מירי וחני\server\API\bin\System.Web.Mvc.dll
+E:\פרויקט מירי וחני\server\API\bin\System.Web.Optimization.dll
+E:\פרויקט מירי וחני\server\API\bin\System.Web.Razor.dll
+E:\פרויקט מירי וחני\server\API\bin\System.Web.WebPages.Deployment.dll
+E:\פרויקט מירי וחני\server\API\bin\System.Web.WebPages.dll
+E:\פרויקט מירי וחני\server\API\bin\System.Web.WebPages.Razor.dll
+E:\פרויקט מירי וחני\server\API\bin\WebGrease.dll
+E:\פרויקט מירי וחני\server\API\bin\Microsoft.AI.DependencyCollector.xml
+E:\פרויקט מירי וחני\server\API\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\פרויקט מירי וחני\server\API\bin\Microsoft.AI.Web.xml
+E:\פרויקט מירי וחני\server\API\bin\Microsoft.AI.WindowsServer.xml
+E:\פרויקט מירי וחני\server\API\bin\Microsoft.ApplicationInsights.xml
+E:\פרויקט מירי וחני\server\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\פרויקט מירי וחני\server\API\bin\System.Net.Http.Formatting.xml
+E:\פרויקט מירי וחני\server\API\bin\System.Web.Http.xml
+E:\פרויקט מירי וחני\server\API\bin\System.Web.Http.Cors.xml
+E:\פרויקט מירי וחני\server\API\bin\Newtonsoft.Json.xml
+E:\פרויקט מירי וחני\server\API\bin\System.Web.Helpers.xml
+E:\פרויקט מירי וחני\server\API\bin\System.Web.Http.WebHost.xml
+E:\פרויקט מירי וחני\server\API\bin\System.Web.Mvc.xml
+E:\פרויקט מירי וחני\server\API\bin\System.Web.Optimization.xml
+E:\פרויקט מירי וחני\server\API\bin\System.Web.Razor.xml
+E:\פרויקט מירי וחני\server\API\bin\System.Web.WebPages.xml
+E:\פרויקט מירי וחני\server\API\bin\System.Web.WebPages.Deployment.xml
+E:\פרויקט מירי וחני\server\API\bin\System.Web.WebPages.Razor.xml
+E:\פרויקט מירי וחני\server\API\bin\Antlr3.Runtime.pdb
+E:\פרויקט מירי וחני\server\API\bin\EntityFramework.xml
+E:\פרויקט מירי וחני\server\API\bin\EntityFramework.SqlServer.xml
+E:\פרויקט מירי וחני\server\API\bin\Microsoft.AspNet.Identity.Core.xml
+E:\פרויקט מירי וחני\server\API\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\פרויקט מירי וחני\server\API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.xml
+E:\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.xml
+E:\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.Facebook.xml
+E:\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.Cookies.xml
+E:\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.OAuth.xml
+E:\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.Google.xml
+E:\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.Twitter.xml
+E:\פרויקט מירי וחני\server\API\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\פרויקט מירי וחני\server\API\bin\System.Web.Http.Owin.xml
+E:\פרויקט מירי וחני\server\API\obj\Debug\API.csproj.CopyComplete
+S:\Tamar Braverman\server\API\bin\roslyn\csc.exe
+S:\Tamar Braverman\server\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+S:\Tamar Braverman\server\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+S:\Tamar Braverman\server\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+S:\Tamar Braverman\server\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+S:\Tamar Braverman\server\API\bin\roslyn\Microsoft.CSharp.Core.targets
+S:\Tamar Braverman\server\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+S:\Tamar Braverman\server\API\bin\roslyn\System.Collections.Immutable.dll
+S:\Tamar Braverman\server\API\bin\roslyn\System.Reflection.Metadata.dll
+S:\Tamar Braverman\server\API\bin\roslyn\vbc.exe
+S:\Tamar Braverman\server\API\bin\roslyn\VBCSCompiler.exe
+S:\Tamar Braverman\server\API\bin\roslyn\VBCSCompiler.exe.config
+S:\Tamar Braverman\server\API\bin\API.dll.config
+S:\Tamar Braverman\server\API\bin\API.dll
+S:\Tamar Braverman\server\API\bin\API.pdb
+S:\Tamar Braverman\server\API\bin\Antlr3.Runtime.dll
+S:\Tamar Braverman\server\API\bin\Cors.ConfigProfiles.dll
+S:\Tamar Braverman\server\API\bin\EntityFramework.dll
+S:\Tamar Braverman\server\API\bin\EntityFramework.SqlServer.dll
+S:\Tamar Braverman\server\API\bin\Microsoft.AI.Agent.Intercept.dll
+S:\Tamar Braverman\server\API\bin\Microsoft.AI.DependencyCollector.dll
+S:\Tamar Braverman\server\API\bin\Microsoft.AI.PerfCounterCollector.dll
+S:\Tamar Braverman\server\API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+S:\Tamar Braverman\server\API\bin\Microsoft.AI.Web.dll
+S:\Tamar Braverman\server\API\bin\Microsoft.AI.WindowsServer.dll
+S:\Tamar Braverman\server\API\bin\Microsoft.ApplicationInsights.dll
+S:\Tamar Braverman\server\API\bin\Microsoft.AspNet.Identity.Core.dll
+S:\Tamar Braverman\server\API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+S:\Tamar Braverman\server\API\bin\Microsoft.AspNet.Identity.Owin.dll
+S:\Tamar Braverman\server\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+S:\Tamar Braverman\server\API\bin\Microsoft.Owin.dll
+S:\Tamar Braverman\server\API\bin\Microsoft.Owin.Host.SystemWeb.dll
+S:\Tamar Braverman\server\API\bin\Microsoft.Owin.Security.Cookies.dll
+S:\Tamar Braverman\server\API\bin\Microsoft.Owin.Security.dll
+S:\Tamar Braverman\server\API\bin\Microsoft.Owin.Security.Facebook.dll
+S:\Tamar Braverman\server\API\bin\Microsoft.Owin.Security.Google.dll
+S:\Tamar Braverman\server\API\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+S:\Tamar Braverman\server\API\bin\Microsoft.Owin.Security.OAuth.dll
+S:\Tamar Braverman\server\API\bin\Microsoft.Owin.Security.Twitter.dll
+S:\Tamar Braverman\server\API\bin\Microsoft.Web.Infrastructure.dll
+S:\Tamar Braverman\server\API\bin\Microsoft.Web.XmlTransform.dll
+S:\Tamar Braverman\server\API\bin\Newtonsoft.Json.dll
+S:\Tamar Braverman\server\API\bin\Owin.dll
+S:\Tamar Braverman\server\API\bin\System.Net.Http.Formatting.dll
+S:\Tamar Braverman\server\API\bin\System.Web.Cors.dll
+S:\Tamar Braverman\server\API\bin\System.Web.Helpers.dll
+S:\Tamar Braverman\server\API\bin\System.Web.Http.Cors.dll
+S:\Tamar Braverman\server\API\bin\System.Web.Http.dll
+S:\Tamar Braverman\server\API\bin\System.Web.Http.Owin.dll
+S:\Tamar Braverman\server\API\bin\System.Web.Http.WebHost.dll
+S:\Tamar Braverman\server\API\bin\System.Web.Mvc.dll
+S:\Tamar Braverman\server\API\bin\System.Web.Optimization.dll
+S:\Tamar Braverman\server\API\bin\System.Web.Razor.dll
+S:\Tamar Braverman\server\API\bin\System.Web.WebPages.Deployment.dll
+S:\Tamar Braverman\server\API\bin\System.Web.WebPages.dll
+S:\Tamar Braverman\server\API\bin\System.Web.WebPages.Razor.dll
+S:\Tamar Braverman\server\API\bin\WebGrease.dll
+S:\Tamar Braverman\server\API\bin\Microsoft.AI.DependencyCollector.xml
+S:\Tamar Braverman\server\API\bin\Microsoft.AI.ServerTelemetryChannel.xml
+S:\Tamar Braverman\server\API\bin\Microsoft.AI.Web.xml
+S:\Tamar Braverman\server\API\bin\Microsoft.AI.WindowsServer.xml
+S:\Tamar Braverman\server\API\bin\Microsoft.ApplicationInsights.xml
+S:\Tamar Braverman\server\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+S:\Tamar Braverman\server\API\bin\System.Net.Http.Formatting.xml
+S:\Tamar Braverman\server\API\bin\System.Web.Http.xml
+S:\Tamar Braverman\server\API\bin\System.Web.Http.Cors.xml
+S:\Tamar Braverman\server\API\bin\Newtonsoft.Json.xml
+S:\Tamar Braverman\server\API\bin\System.Web.Helpers.xml
+S:\Tamar Braverman\server\API\bin\System.Web.Http.WebHost.xml
+S:\Tamar Braverman\server\API\bin\System.Web.Mvc.xml
+S:\Tamar Braverman\server\API\bin\System.Web.Optimization.xml
+S:\Tamar Braverman\server\API\bin\System.Web.Razor.xml
+S:\Tamar Braverman\server\API\bin\System.Web.WebPages.xml
+S:\Tamar Braverman\server\API\bin\System.Web.WebPages.Deployment.xml
+S:\Tamar Braverman\server\API\bin\System.Web.WebPages.Razor.xml
+S:\Tamar Braverman\server\API\bin\Antlr3.Runtime.pdb
+S:\Tamar Braverman\server\API\bin\EntityFramework.xml
+S:\Tamar Braverman\server\API\bin\EntityFramework.SqlServer.xml
+S:\Tamar Braverman\server\API\bin\Microsoft.AspNet.Identity.Core.xml
+S:\Tamar Braverman\server\API\bin\Microsoft.AspNet.Identity.Owin.xml
+S:\Tamar Braverman\server\API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+S:\Tamar Braverman\server\API\bin\Microsoft.Owin.xml
+S:\Tamar Braverman\server\API\bin\Microsoft.Owin.Host.SystemWeb.xml
+S:\Tamar Braverman\server\API\bin\Microsoft.Owin.Security.xml
+S:\Tamar Braverman\server\API\bin\Microsoft.Owin.Security.Facebook.xml
+S:\Tamar Braverman\server\API\bin\Microsoft.Owin.Security.Cookies.xml
+S:\Tamar Braverman\server\API\bin\Microsoft.Owin.Security.OAuth.xml
+S:\Tamar Braverman\server\API\bin\Microsoft.Owin.Security.Google.xml
+S:\Tamar Braverman\server\API\bin\Microsoft.Owin.Security.Twitter.xml
+S:\Tamar Braverman\server\API\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+S:\Tamar Braverman\server\API\bin\System.Web.Http.Owin.xml
+S:\Tamar Braverman\server\API\obj\Debug\API.csprojAssemblyReference.cache
+S:\Tamar Braverman\server\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+S:\Tamar Braverman\server\API\obj\Debug\API.csproj.CopyComplete
+S:\Tamar Braverman\server\API\obj\Debug\API.dll
+S:\Tamar Braverman\server\API\obj\Debug\API.pdb
+S:\חני ולדר\memory game\server\API\bin\roslyn\csc.exe
+S:\חני ולדר\memory game\server\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+S:\חני ולדר\memory game\server\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+S:\חני ולדר\memory game\server\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+S:\חני ולדר\memory game\server\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+S:\חני ולדר\memory game\server\API\bin\roslyn\Microsoft.CSharp.Core.targets
+S:\חני ולדר\memory game\server\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+S:\חני ולדר\memory game\server\API\bin\roslyn\System.Collections.Immutable.dll
+S:\חני ולדר\memory game\server\API\bin\roslyn\System.Reflection.Metadata.dll
+S:\חני ולדר\memory game\server\API\bin\roslyn\vbc.exe
+S:\חני ולדר\memory game\server\API\bin\roslyn\VBCSCompiler.exe
+S:\חני ולדר\memory game\server\API\bin\roslyn\VBCSCompiler.exe.config
+S:\חני ולדר\memory game\server\API\bin\API.dll.config
+S:\חני ולדר\memory game\server\API\bin\API.dll
+S:\חני ולדר\memory game\server\API\bin\API.pdb
+S:\חני ולדר\memory game\server\API\bin\Antlr3.Runtime.dll
+S:\חני ולדר\memory game\server\API\bin\Cors.ConfigProfiles.dll
+S:\חני ולדר\memory game\server\API\bin\EntityFramework.dll
+S:\חני ולדר\memory game\server\API\bin\EntityFramework.SqlServer.dll
+S:\חני ולדר\memory game\server\API\bin\Microsoft.AI.Agent.Intercept.dll
+S:\חני ולדר\memory game\server\API\bin\Microsoft.AI.DependencyCollector.dll
+S:\חני ולדר\memory game\server\API\bin\Microsoft.AI.PerfCounterCollector.dll
+S:\חני ולדר\memory game\server\API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+S:\חני ולדר\memory game\server\API\bin\Microsoft.AI.Web.dll
+S:\חני ולדר\memory game\server\API\bin\Microsoft.AI.WindowsServer.dll
+S:\חני ולדר\memory game\server\API\bin\Microsoft.ApplicationInsights.dll
+S:\חני ולדר\memory game\server\API\bin\Microsoft.AspNet.Identity.Core.dll
+S:\חני ולדר\memory game\server\API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+S:\חני ולדר\memory game\server\API\bin\Microsoft.AspNet.Identity.Owin.dll
+S:\חני ולדר\memory game\server\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+S:\חני ולדר\memory game\server\API\bin\Microsoft.Owin.dll
+S:\חני ולדר\memory game\server\API\bin\Microsoft.Owin.Host.SystemWeb.dll
+S:\חני ולדר\memory game\server\API\bin\Microsoft.Owin.Security.Cookies.dll
+S:\חני ולדר\memory game\server\API\bin\Microsoft.Owin.Security.dll
+S:\חני ולדר\memory game\server\API\bin\Microsoft.Owin.Security.Facebook.dll
+S:\חני ולדר\memory game\server\API\bin\Microsoft.Owin.Security.Google.dll
+S:\חני ולדר\memory game\server\API\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+S:\חני ולדר\memory game\server\API\bin\Microsoft.Owin.Security.OAuth.dll
+S:\חני ולדר\memory game\server\API\bin\Microsoft.Owin.Security.Twitter.dll
+S:\חני ולדר\memory game\server\API\bin\Microsoft.Web.Infrastructure.dll
+S:\חני ולדר\memory game\server\API\bin\Microsoft.Web.XmlTransform.dll
+S:\חני ולדר\memory game\server\API\bin\Newtonsoft.Json.dll
+S:\חני ולדר\memory game\server\API\bin\Owin.dll
+S:\חני ולדר\memory game\server\API\bin\System.Net.Http.Formatting.dll
+S:\חני ולדר\memory game\server\API\bin\System.Web.Cors.dll
+S:\חני ולדר\memory game\server\API\bin\System.Web.Helpers.dll
+S:\חני ולדר\memory game\server\API\bin\System.Web.Http.Cors.dll
+S:\חני ולדר\memory game\server\API\bin\System.Web.Http.dll
+S:\חני ולדר\memory game\server\API\bin\System.Web.Http.Owin.dll
+S:\חני ולדר\memory game\server\API\bin\System.Web.Http.WebHost.dll
+S:\חני ולדר\memory game\server\API\bin\System.Web.Mvc.dll
+S:\חני ולדר\memory game\server\API\bin\System.Web.Optimization.dll
+S:\חני ולדר\memory game\server\API\bin\System.Web.Razor.dll
+S:\חני ולדר\memory game\server\API\bin\System.Web.WebPages.Deployment.dll
+S:\חני ולדר\memory game\server\API\bin\System.Web.WebPages.dll
+S:\חני ולדר\memory game\server\API\bin\System.Web.WebPages.Razor.dll
+S:\חני ולדר\memory game\server\API\bin\WebGrease.dll
+S:\חני ולדר\memory game\server\API\bin\Microsoft.AI.DependencyCollector.xml
+S:\חני ולדר\memory game\server\API\bin\Microsoft.AI.ServerTelemetryChannel.xml
+S:\חני ולדר\memory game\server\API\bin\Microsoft.AI.Web.xml
+S:\חני ולדר\memory game\server\API\bin\Microsoft.AI.WindowsServer.xml
+S:\חני ולדר\memory game\server\API\bin\Microsoft.ApplicationInsights.xml
+S:\חני ולדר\memory game\server\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+S:\חני ולדר\memory game\server\API\bin\System.Net.Http.Formatting.xml
+S:\חני ולדר\memory game\server\API\bin\System.Web.Http.xml
+S:\חני ולדר\memory game\server\API\bin\System.Web.Http.Cors.xml
+S:\חני ולדר\memory game\server\API\bin\Newtonsoft.Json.xml
+S:\חני ולדר\memory game\server\API\bin\System.Web.Helpers.xml
+S:\חני ולדר\memory game\server\API\bin\System.Web.Http.WebHost.xml
+S:\חני ולדר\memory game\server\API\bin\System.Web.Mvc.xml
+S:\חני ולדר\memory game\server\API\bin\System.Web.Optimization.xml
+S:\חני ולדר\memory game\server\API\bin\System.Web.Razor.xml
+S:\חני ולדר\memory game\server\API\bin\System.Web.WebPages.xml
+S:\חני ולדר\memory game\server\API\bin\System.Web.WebPages.Deployment.xml
+S:\חני ולדר\memory game\server\API\bin\System.Web.WebPages.Razor.xml
+S:\חני ולדר\memory game\server\API\bin\Antlr3.Runtime.pdb
+S:\חני ולדר\memory game\server\API\bin\EntityFramework.xml
+S:\חני ולדר\memory game\server\API\bin\EntityFramework.SqlServer.xml
+S:\חני ולדר\memory game\server\API\bin\Microsoft.AspNet.Identity.Core.xml
+S:\חני ולדר\memory game\server\API\bin\Microsoft.AspNet.Identity.Owin.xml
+S:\חני ולדר\memory game\server\API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+S:\חני ולדר\memory game\server\API\bin\Microsoft.Owin.xml
+S:\חני ולדר\memory game\server\API\bin\Microsoft.Owin.Host.SystemWeb.xml
+S:\חני ולדר\memory game\server\API\bin\Microsoft.Owin.Security.xml
+S:\חני ולדר\memory game\server\API\bin\Microsoft.Owin.Security.Facebook.xml
+S:\חני ולדר\memory game\server\API\bin\Microsoft.Owin.Security.Cookies.xml
+S:\חני ולדר\memory game\server\API\bin\Microsoft.Owin.Security.OAuth.xml
+S:\חני ולדר\memory game\server\API\bin\Microsoft.Owin.Security.Google.xml
+S:\חני ולדר\memory game\server\API\bin\Microsoft.Owin.Security.Twitter.xml
+S:\חני ולדר\memory game\server\API\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+S:\חני ולדר\memory game\server\API\bin\System.Web.Http.Owin.xml
+S:\חני ולדר\memory game\server\API\obj\Debug\API.csprojAssemblyReference.cache
+S:\חני ולדר\memory game\server\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+S:\חני ולדר\memory game\server\API\obj\Debug\API.csproj.CopyComplete
+S:\חני ולדר\memory game\server\API\obj\Debug\API.dll
+S:\חני ולדר\memory game\server\API\obj\Debug\API.pdb
